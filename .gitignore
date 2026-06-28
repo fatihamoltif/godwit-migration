@@ -1,0 +1,15 @@
+# Données (régénérables via les scripts de téléchargement)
+data/
+
+# Environnement virtuel
+.venv/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Cartes générées
+reports/figures/*.html
+
+# Secrets éventuels
+.cdsapirc
